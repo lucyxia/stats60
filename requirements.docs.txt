@@ -1,0 +1,10 @@
+ipython
+sphinx
+notedown
+numpy
+scipy
+rpy2
+ipy_table
+jupyter
+nbconvert
+PIL

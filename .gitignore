@@ -1,5 +1,9 @@
 .ipynb_checkpoints/
-*/*.pyc
+notebooks/*/*.pyc
 */*~
+*~
 Tables/*pdf
 Tables/*tex
+build/
+_build/
+sphinx/index.rst
